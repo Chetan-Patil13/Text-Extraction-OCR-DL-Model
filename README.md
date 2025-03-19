@@ -1,7 +1,3 @@
-Got it! Here’s an upgraded version of the **Drug Text Detection** README with a simple yet professional tone, detailed model comparison, and broader use cases:
-
----
-
 # 🚀 Drug Text Detection 💊  
 **Automated Text Detection and Recognition with PaddleOCR**  
 
